@@ -1,0 +1,47 @@
+<!-- Seção Apresentação -->
+<section class="hero text-center text-dark">
+  <div class="container">
+    <img src="img/fotoperfil.png" alt="Foto de perfil" class="foto-perfil">
+    <h1>Olá, eu sou Jaíne Consuelo</h1>
+    <p>Artista, tatuadora, bodypiercer e estudante de Sistemas para Internet no IFTO</p>
+  </div>
+</section>
+
+<!-- Onda -->
+
+<!-- Seção Links -->
+<section class="links text-center py-5">
+  <div class="container">
+    <div class="row">
+      <div class="col">
+        <a href="#"><img src="img/whatsapp.png" class="icon" width="200px "><br>Me chame no WhatsApp</a>
+      </div>
+      <div class="col">
+        <a href="#"><img src="img/github.png" class="icon" width="200px"><br>Acesse o GitHub</a>
+      </div>
+      <div class="col">
+        <a href="#"><img src="img/Linkedin.png" class="icon" width="200px"><br>Acesse o LinkedIn</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Outra Onda -->
+<div class="onda">
+
+</div>
+
+<!-- Seção Redes Sociais -->
+<section class="redes py-5 text-center">
+  <div class="container">
+    <h2>Me siga nas redes sociais</h2>
+    <div class="d-flex justify-content-center gap-5 mt-4">
+      <a href="#">@consuelojaine</a>
+      <a href="#">@consuelo.tattoo</a>
+      <a href="#">@con.suart</a>
+    </div>
+  </div>
+
+</section>
+<footer><img src="img/rodape.png" alt="onda decorativa"></footer>
+<!-- Latest compiled JavaScript -->

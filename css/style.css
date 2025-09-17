@@ -1,29 +1,36 @@
-body {
-  font-family: Arial, sans-serif;
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background-color: #fff3eb;
 }
 
-/* Seção de apresentação */
-.hero {
-  background: #f28a8a; /* cor de fundo (igual ao Figma) */
-  padding: 80px 0 120px;
-  position: relative;
+.cabeçalho{
+  background-image: url("../img/cabeçalhoo.png") !important;
+  background-size: cover !important;
+  background-position: center center !important;
+  height: 49vh  !important;
+  position: relative !important;
 }
 
-.foto-perfil {
-  width: 120px;
-  height: 120px;
-  border-radius: 50%;
-  margin-bottom: 20px;
+.fotoperfil {
+  position: absolute;
+  bottom: 6vh;       /* empurra para baixo */
+  left: 20%;           /* centraliza horizontal */
+  
+}
+.fotoperfil img {
+  height: 40vh;
 }
 
-/* Imagem das ondas */
-.onda img {
-  width: 100%;
-  display: block;
+.textinho{
+  
 }
 
-/* Ícones */
-.icon {
-  width: 50px;
-  margin-bottom: 10px;
-}
+/* .principal{
+    margin-left: 0% !important;
+    margin-right: 0% !important;
+    text-align: center !important;
+} */

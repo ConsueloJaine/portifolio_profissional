@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+/* Seção de apresentação */
+.hero {
+  background: #f28a8a; /* cor de fundo (igual ao Figma) */
+  padding: 80px 0 120px;
+  position: relative;
+}
+
+.foto-perfil {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  margin-bottom: 20px;
+}
+
+/* Imagem das ondas */
+.onda img {
+  width: 100%;
+  display: block;
+}
+
+/* Ícones */
+.icon {
+  width: 50px;
+  margin-bottom: 10px;
+}
