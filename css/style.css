@@ -9,20 +9,21 @@ body{
 
 .cabeçalho{
   background-image: url("../img/cabeçalhoo.png") !important;
+  background-repeat: no-repeat !important;
   background-size: cover !important;
   background-position: center center !important;
-  height: 49vh  !important;
-  position: relative !important;
+  height: 50vh  !important;
+
 }
 
-.fotoperfil {
-  position: absolute;
-  bottom: 6vh;       /* empurra para baixo */
-  left: 20%;           /* centraliza horizontal */
-  
+.fotoperfil{
+  width: 60% !important;
 }
-.fotoperfil img {
-  height: 40vh;
+
+.principal{
+  padding-left: 20% !important;
+  padding-right: 20% !important;
+  padding-top: 2% !important;
 }
 
 .textinho{
