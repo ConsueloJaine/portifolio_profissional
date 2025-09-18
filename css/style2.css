@@ -1,0 +1,250 @@
+.wireframe {
+  background-color: #fff2eb;
+  overflow: hidden;
+  width: 100%;
+  min-width: 1440px;
+  min-height: 2000px;
+  position: relative;
+}
+
+.wireframe .vector {
+  top: 0;
+  height: 828px;
+  position: absolute;
+  left: 0;
+  width: 1440px;
+}
+
+.wireframe .text-wrapper {
+  position: absolute;
+  top: 131px;
+  left: 764px;
+  width: 167px;
+  font-family: "Open Sans Condensed-Light", Helvetica;
+  font-weight: 300;
+  color: #df696d;
+  font-size: 128px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.wireframe .div {
+  position: absolute;
+  top: 876px;
+  left: 104px;
+  width: 963px;
+  font-family: "Open Sans Condensed-Light", Helvetica;
+  font-weight: 300;
+  color: #df696d;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.wireframe .text-wrapper-2 {
+  position: absolute;
+  top: 876px;
+  left: 979px;
+  width: 963px;
+  font-family: "Open Sans Condensed-Light", Helvetica;
+  font-weight: 300;
+  color: #df696d;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.wireframe .text-wrapper-3 {
+  position: absolute;
+  top: 876px;
+  left: 557px;
+  width: 963px;
+  font-family: "Open Sans Condensed-Light", Helvetica;
+  font-weight: 300;
+  color: #df696d;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.wireframe .text-wrapper-4 {
+  position: absolute;
+  top: 268px;
+  left: 764px;
+  width: 566px;
+  font-family: "Viaoda Libre-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.wireframe .p {
+  position: absolute;
+  top: 380px;
+  left: 763px;
+  width: 517px;
+  -webkit-text-stroke: 1px transparent;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #df696d;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.wireframe .img {
+  top: 1140px;
+  height: 860px;
+  position: absolute;
+  left: 0;
+  width: 1440px;
+}
+
+.wireframe .polygon {
+  position: absolute;
+  top: 843px;
+  left: 539px;
+  width: 150px;
+  height: 27px;
+}
+
+.wireframe .vector-2 {
+  top: 1189px;
+  height: 811px;
+  position: absolute;
+  left: 0;
+  width: 1440px;
+}
+
+.wireframe .vector-3 {
+  top: 0;
+  height: 250px;
+  position: absolute;
+  left: 0;
+  width: 1440px;
+}
+
+.wireframe .text-wrapper-5 {
+  position: absolute;
+  top: 1455px;
+  left: 396px;
+  width: 622px;
+  font-family: "Montserrat-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.wireframe .intersect {
+  position: absolute;
+  top: 44px;
+  left: 99px;
+  width: 574px;
+  height: 681px;
+}
+
+.wireframe .text-wrapper-6 {
+  position: absolute;
+  top: 1768px;
+  left: 136px;
+  width: 517px;
+  -webkit-text-stroke: 1px #00000026;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.wireframe .text-wrapper-7 {
+  position: absolute;
+  top: 1768px;
+  left: 551px;
+  width: 517px;
+  -webkit-text-stroke: 1px #00000026;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.wireframe .text-wrapper-8 {
+  position: absolute;
+  top: 1768px;
+  left: 1041px;
+  width: 517px;
+  -webkit-text-stroke: 1px #00000026;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.wireframe .instagram {
+  position: absolute;
+  top: 1499px;
+  left: 625px;
+  width: 190px;
+  height: 190px;
+}
+
+.wireframe .instagram-2 {
+  left: 190px;
+  position: absolute;
+  top: 1565px;
+  width: 190px;
+  height: 190px;
+}
+
+.wireframe .instagram-3 {
+  left: 620px;
+  position: absolute;
+  top: 1565px;
+  width: 190px;
+  height: 190px;
+}
+
+.wireframe .instagram-4 {
+  left: 1050px;
+  position: absolute;
+  top: 1565px;
+  width: 190px;
+  height: 190px;
+}
+
+.wireframe .image {
+  top: 915px;
+  left: 163px;
+  width: 255px;
+  height: 255px;
+  aspect-ratio: 1;
+  position: absolute;
+  object-fit: cover;
+}
+
+.wireframe .linkedin {
+  position: absolute;
+  top: 977px;
+  left: 1070px;
+  width: 160px;
+  height: 160px;
+}
+
+.wireframe .image-2 {
+  top: 963px;
+  left: 586px;
+  width: 305px;
+  height: 172px;
+  aspect-ratio: 1.78;
+  position: absolute;
+  object-fit: cover;
+}
